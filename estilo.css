@@ -69,3 +69,8 @@ footer {
 .cartao-verso{
     transform: rotateY(180bje);
 }
+
+section{
+    display: flex;
+    gap: 16px;
+}
